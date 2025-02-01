@@ -1,3 +1,5 @@
+# A python app to send interact with deepseek-r1 model running in a system
+# using ollama.
 from fastapi import FastAPI
 from pydantic import BaseModel
 import requests
